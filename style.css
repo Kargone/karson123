@@ -1,0 +1,42 @@
+.availableButton {
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: 'Muli', sans-serif;
+    background-color: #43c343;
+    border: none;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.lockedButton {
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: 'Muli', sans-serif;
+    background-color: gray;
+    border: none;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
