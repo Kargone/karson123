@@ -9,3 +9,7 @@ document.getElementById('coup').addEventListener('click', function () {
 document.getElementById('scorekeeper').addEventListener('click', function () {
     window.location.href = "https://bestscorekeeper.netlify.app/";
 });
+
+document.getElementById('loveletter').addEventListener('click', function () {
+    window.location.href = "https://loveletter2.netlify.app/";
+});
