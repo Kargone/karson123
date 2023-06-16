@@ -13,3 +13,7 @@ document.getElementById('scorekeeper').addEventListener('click', function () {
 document.getElementById('loveletter').addEventListener('click', function () {
     window.location.href = "https://loveletter2.netlify.app/";
 });
+
+document.getElementById('enterprise-calculator').addEventListener('click', function() {
+    window.location.href = "https://enterprise-calc.netlify.app/";
+});
