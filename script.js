@@ -17,3 +17,7 @@ document.getElementById('loveletter').addEventListener('click', function () {
 document.getElementById('enterprise-calculator').addEventListener('click', function() {
     window.location.href = "https://enterprise-calc.netlify.app/";
 });
+
+document.getElementById('jeopardy').addEventListener('click', function() {
+    window.location.href = "https://online-jeopardy.netlify.app/";
+});
