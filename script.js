@@ -21,3 +21,7 @@ document.getElementById('enterprise-calculator').addEventListener('click', funct
 document.getElementById('jeopardy').addEventListener('click', function() {
     window.location.href = "https://online-jeopardy.netlify.app/";
 });
+
+document.getElementById('wvt').addEventListener('click', function() {
+    window.location.href = "https://wvt.netlify.app/";
+});
