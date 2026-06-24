@@ -11,7 +11,7 @@ document.getElementById('scorekeeper').addEventListener('click', function () {
 });
 
 document.getElementById('loveletter').addEventListener('click', function () {
-    window.location.href = "https://loveletter2.netlify.app/";
+    window.location.href = "https://loveletter3.netlify.app/";
 });
 
 document.getElementById('enterprise-calculator').addEventListener('click', function() {
@@ -23,5 +23,5 @@ document.getElementById('jeopardy').addEventListener('click', function() {
 });
 
 document.getElementById('wvt').addEventListener('click', function() {
-    window.location.href = "https://wvt.netlify.app/";
+    window.location.href = "https://wvtweb.netlify.app/";
 });
