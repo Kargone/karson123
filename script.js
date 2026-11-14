@@ -1,4 +1,8 @@
-document.getElementById('mordle').addEventListener('click', function () {
+document.getElementById('mordle3').addEventListener('click', function () {
+    window.location.href = "https://mordle3.netlify.app/";
+});
+
+document.getElementById('mordle2').addEventListener('click', function () {
     window.location.href = "https://karsonswordle.netlify.app/";
 });
 
@@ -28,4 +32,12 @@ document.getElementById('wvt').addEventListener('click', function() {
 
 document.getElementById('todo').addEventListener('click', function() {
     window.location.href = "https://todoapp-js-1.netlify.app/";
+});
+
+document.getElementById('todo-download').addEventListener('click', function() {
+    window.location.href = "https://github.com/Kargone/ToDoApp/releases";
+});
+
+document.getElementById('dadcalc-download').addEventListener('click', function() {
+    window.location.href = "https://github.com/Kargone/DadCalcApp/releases";
 });
