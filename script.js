@@ -26,9 +26,9 @@ document.getElementById('jeopardy').addEventListener('click', function() {
     window.location.href = "https://online-jeopardy.netlify.app/";
 });
 
-document.getElementById('wvt').addEventListener('click', function() {
-    window.location.href = "https://wvtweb.netlify.app/";
-});
+// document.getElementById('wvt').addEventListener('click', function() {
+//     window.location.href = "https://wvtweb.netlify.app/";
+// });
 
 document.getElementById('todo').addEventListener('click', function() {
     window.location.href = "https://todoapp-js-1.netlify.app/";
